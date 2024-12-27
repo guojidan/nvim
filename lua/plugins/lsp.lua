@@ -25,7 +25,7 @@ return {
             offsetEncoding = { "utf-16" },
           },
           cmd = {
-            "clangd",
+            "clangd-17",
             "--background-index",
             "--clang-tidy",
             "--header-insertion=iwyu",
