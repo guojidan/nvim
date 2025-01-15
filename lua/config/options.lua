@@ -4,3 +4,4 @@
 vim.g.lazyvim_rust_diagnostics = "rust-analyzer"
 vim.g.autoformat = false
 vim.o.shell = "/usr/bin/bash"
+vim.o.scrolloff = 20
