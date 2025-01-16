@@ -1,6 +1,3 @@
-return {
-  {
-    "leoluz/nvim-dap-go",
-    opts = {},
-  },
-}
+if true then
+  return {}
+end
